@@ -1,0 +1,13 @@
+SCREEN_WIDTH = 800
+SCREEN_HEIGHT = 600
+SCREEN_TITLE = "Super Mario - Version _ 0.28"
+GRAVITY = 0.8
+JUMP_SPEED = 16
+MOVE_SPEED = 5
+
+# Colors
+SKY_BLUE = (135, 206, 235)
+PLATFORM_COLOR = (76, 153, 0)
+
+# Enemy Constants
+ENEMY_SPEED = 2
