@@ -27,7 +27,4 @@ A classic 2D side-scrolling platformer built entirely in Python using the **Arca
 
 ## 📦 Installation & Setup
 
-1. Make sure you have **Python 3.10+** installed on your machine.
-2. Clone this repository to your local directory:
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
+ Make sure you have **Python 3.10+** installed on your machine.
